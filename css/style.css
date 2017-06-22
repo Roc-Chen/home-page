@@ -879,52 +879,11 @@ ul.simplefilter {
 /*-- contact-starts-here --*/
 .contact-left-agile {
     float: left;
-    width: 50%;
+    width: 100%;
 	padding-left: 14em;
 }
-.contact-right-w3l {
-    float: right;
-    width: 50%;
-	background: #eee;
-}
-input[type="text"], input[type="email"], .contact-right-w3l textarea{
-    width: 80%;
-    padding: 10px;
-    outline: none;
-    font-size: 14px;
-    color: #000;
-    margin: 12px 0px;
-	font-family: 'Nunito', sans-serif;
-    border: none;
-    border-bottom: 1px solid #000;
-	background: transparent;
-}
-input[type="submit"] {
-    padding: 12px 0px;
-    font-size: 1.1em;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    background: #07cb79;
-    color: white;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    margin: 1em auto;
-    width: 26%;
-    transition: 0.5s all;
-    -webkit-transition: 0.5s all;
-    -o-transition: 0.5s all;
-    -moz-transition: 0.5s all;
-    -ms-transition: 0.5s all;
-}
-input[type="submit"]:hover {
-	background:#000;
-	transition:0.5s all;
-	-webkit-transition:0.5s all;
-	-o-transition:0.5s all;
-	-moz-transition:0.5s all;
-	-ms-transition:0.5s all;
-}
+
+
 .right-w3l {
     float: left;
     width: 50%;
@@ -966,7 +925,7 @@ input[type="submit"]:hover {
 }
 .add-w3ls2 {
     float: right;
-    width: 85%;
+    width: 93%;
 	margin: 9px 0px;
 }
 .add-w3ls-main span {
