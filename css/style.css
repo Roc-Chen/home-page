@@ -2153,6 +2153,7 @@ textarea {
 .modal-dialog .modal-content{background:#333; opacity:0.8; color:#FFF;}
 .project-intro  h3{font-size: 18px; margin-bottom:15px;}
 .project-intro  p{font-size: 14px; line-height:28px;margin-bottom:15px;}
+.project-intro a{color:#FFF;}
 
 /*-- //responsive-ends-here --*/
 
