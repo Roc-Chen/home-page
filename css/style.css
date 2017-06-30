@@ -132,7 +132,7 @@ a:focus, a:hover {
     background:#07cb79;
 	position:fixed;
 	top:0;
-	z-index:9999;
+	z-index:10;
 	opacity:0.7;
 	-webkit-opacity:0.7;
 	width:100%;
@@ -2150,6 +2150,9 @@ textarea {
 		padding: 1.2em 0;
 	}
 }
+.modal-dialog .modal-content{background:#333; opacity:0.8; color:#FFF;}
+.project-intro  h3{font-size: 18px; margin-bottom:15px;}
+.project-intro  p{font-size: 14px; line-height:28px;margin-bottom:15px;}
 
 /*-- //responsive-ends-here --*/
 
